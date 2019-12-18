@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/95/14/delicious-hamburger-fast-food-background-icon-vector-14199514.jpg);
+}
+.container {
+    margin: 150px;
+    padding: 40px;
+    border-radius: 150px;
+    background-color: #ffffff;
+}
+
+li {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+
+.label {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 200px;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
